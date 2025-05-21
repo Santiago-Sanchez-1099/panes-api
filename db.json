@@ -1,94 +1,169 @@
-{
-  "panes": [
-    {
-      "id": 1,
-      "nombre": "Croissant",
-      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/croissant.jpg",
-      "categoria": "Francesa",
-      "duracion": "2h",
-      "calorias": 300,
-      "ingredientes": ["Harina", "Mantequilla", "Levadura", "Leche"],
-      "instrucciones": "Amasa, refrigera, dobla en capas, hornea a 200°C por 20 min."
-    },
-    {
-      "id": 2,
-      "nombre": "Rogel",
-      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/rogel.jpg",
-      "categoria": "Argentina",
-      "duracion": "1h 30min",
-      "calorias": 450,
-      "ingredientes": ["Harina", "Huevo", "Dulce de leche", "Azúcar"],
-      "instrucciones": "Estira masa, hornea en capas, rellena con dulce de leche, decora con merengue."
-    },
-    {
-      "id": 3,
-      "nombre": "Empanada de mermelada",
-      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/empanada.jpg",
-      "categoria": "Argentina",
-      "duracion": "1h",
-      "calorias": 350,
-      "ingredientes": ["Harina", "Manteca", "Mermelada", "Azúcar"],
-      "instrucciones": "Rellena discos de masa con mermelada, cierra, hornea 25 min a 180°C."
-    },
-    {
-      "id": 4,
-      "nombre": "Focaccia",
-      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/focaccia.jpg",
-      "categoria": "Italiana",
-      "duracion": "1h 15min",
-      "calorias": 280,
-      "ingredientes": ["Harina", "Aceite de oliva", "Levadura", "Romero"],
-      "instrucciones": "Amasa y deja reposar, cubre con aceite y romero, hornea a 220°C."
-    },
-    {
-      "id": 5,
-      "nombre": "Ciabatta",
-      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/ciabatta.jpg",
-      "categoria": "Italiana",
-      "duracion": "3h",
-      "calorias": 290,
-      "ingredientes": ["Harina", "Agua", "Levadura", "Sal"],
-      "instrucciones": "Prepara masa húmeda, fermenta 2h, hornea con vapor por 30 min."
-    },
-    {
-      "id": 6,
-      "nombre": "Baguette",
-      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/baguette.jpg",
-      "categoria": "Francesa",
-      "duracion": "3h",
-      "calorias": 270,
-      "ingredientes": ["Harina", "Agua", "Levadura", "Sal"],
-      "instrucciones": "Amasa, fermenta, forma barras, hornea a 220°C por 25 min."
-    },
-    {
-      "id": 7,
-      "nombre": "Pan de centeno",
-      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/centeno.jpg",
-      "categoria": "Alemana",
-      "duracion": "2h 30min",
-      "calorias": 250,
-      "ingredientes": ["Harina de centeno", "Agua", "Levadura", "Sal"],
-      "instrucciones": "Amasa, fermenta, hornea a 200°C por 35 min."
-    },
-    {
-      "id": 8,
-      "nombre": "Pan multigrano",
-      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/multigrano.jpg",
-      "categoria": "Integral",
-      "duracion": "2h",
-      "calorias": 260,
-      "ingredientes": ["Harinas varias", "Semillas", "Levadura", "Agua"],
-      "instrucciones": "Mezcla ingredientes, fermenta, hornea a 190°C por 30 min."
-    },
-    {
-      "id": 9,
-      "nombre": "Pan de espelta",
-      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/espelta.jpg",
-      "categoria": "Integral",
-      "duracion": "2h",
-      "calorias": 240,
-      "ingredientes": ["Harina de espelta", "Agua", "Levadura", "Sal"],
-      "instrucciones": "Amasa, deja levar 1h, hornea a 200°C por 30 min."
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "nombre": "Croissant",
+    "descripcion": "Pan de hojaldre con mantequilla, clásico francés.",
+    "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/croissant.jpg",
+    "categoria": "dulce",
+    "precio": 1.50,
+    "calificacion": 4.8,
+    "calorias": "406 kcal",
+    "duracion": "3h",
+    "ingredientes": [
+      "Harina",
+      "Mantequilla",
+      "Levadura",
+      "Azúcar",
+      "Sal"
+    ],
+    "instrucciones": "Preparar masa, realizar pliegues con mantequilla, cortar en triángulos y hornear."
+  },
+  {
+    "id": 2,
+    "nombre": "Rogel",
+    "descripcion": "Tarta dulce con capas finas y dulce de leche.",
+    "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/rogel.jpg",
+    "categoria": "dulce",
+    "precio": 2.00,
+    "calificacion": 4.6,
+    "calorias": "510 kcal",
+    "duracion": "1h 30m",
+    "ingredientes": [
+      "Harina",
+      "Manteca",
+      "Dulce de leche",
+      "Azúcar",
+      "Claras de huevo"
+    ],
+    "instrucciones": "Hacer masa fina, hornear capas, intercalar con dulce y cubrir con merengue."
+  },
+  {
+    "id": 3,
+    "nombre": "Empanada (mermelada)",
+    "descripcion": "Masa rellena de mermelada de frutas.",
+    "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/empanada.jpg",
+    "categoria": "dulce",
+    "precio": 1.20,
+    "calificacion": 4.4,
+    "calorias": "320 kcal",
+    "duracion": "45m",
+    "ingredientes": [
+      "Harina",
+      "Mermelada",
+      "Manteca",
+      "Huevo"
+    ],
+    "instrucciones": "Preparar masa, rellenar con mermelada, cerrar y hornear."
+  },
+  {
+    "id": 4,
+    "nombre": "Focaccia",
+    "descripcion": "Pan italiano plano con aceite de oliva y hierbas.",
+    "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/focaccia.jpg",
+    "categoria": "salado",
+    "precio": 1.80,
+    "calificacion": 4.7,
+    "calorias": "470 kcal",
+    "duracion": "2h",
+    "ingredientes": [
+      "Harina",
+      "Agua",
+      "Levadura",
+      "Aceite de oliva",
+      "Romero"
+    ],
+    "instrucciones": "Amasar, fermentar, presionar con dedos y hornear con aceite."
+  },
+  {
+    "id": 5,
+    "nombre": "Ciabatta",
+    "descripcion": "Pan rústico italiano de miga aireada.",
+    "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/ciabatta.jpg",
+    "categoria": "salado",
+    "precio": 1.60,
+    "calificacion": 4.5,
+    "calorias": "430 kcal",
+    "duracion": "3h",
+    "ingredientes": [
+      "Harina",
+      "Agua",
+      "Levadura",
+      "Sal"
+    ],
+    "instrucciones": "Hacer poolish, mezclar, reposar, formar y hornear."
+  },
+  {
+    "id": 6,
+    "nombre": "Baguette",
+    "descripcion": "Pan largo francés con corteza crujiente.",
+    "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/baguette.jpg",
+    "categoria": "salado",
+    "precio": 1.30,
+    "calificacion": 4.9,
+    "calorias": "280 kcal",
+    "duracion": "4h",
+    "ingredientes": [
+      "Harina",
+      "Agua",
+      "Levadura",
+      "Sal"
+    ],
+    "instrucciones": "Amasar, fermentar, dar forma alargada, hacer cortes y hornear."
+  },
+  {
+    "id": 7,
+    "nombre": "Espelta",
+    "descripcion": "Pan integral de harina de espelta.",
+    "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/espelta.jpg",
+    "categoria": "integral",
+    "precio": 1.70,
+    "calificacion": 4.3,
+    "calorias": "350 kcal",
+    "duracion": "2h 30m",
+    "ingredientes": [
+      "Harina de espelta",
+      "Agua",
+      "Levadura",
+      "Sal"
+    ],
+    "instrucciones": "Mezclar ingredientes, fermentar, formar pan y hornear."
+  },
+  {
+    "id": 8,
+    "nombre": "Centeno",
+    "descripcion": "Pan oscuro con sabor intenso, bajo en gluten.",
+    "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/centeno.jpg",
+    "categoria": "integral",
+    "precio": 1.40,
+    "calificacion": 4.2,
+    "calorias": "300 kcal",
+    "duracion": "3h",
+    "ingredientes": [
+      "Harina de centeno",
+      "Harina de trigo",
+      "Agua",
+      "Levadura",
+      "Sal"
+    ],
+    "instrucciones": "Amasar ambas harinas, fermentar y hornear."
+  },
+  {
+    "id": 9,
+    "nombre": "Multigrano",
+    "descripcion": "Pan con mezcla de varios granos integrales.",
+    "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/multigrano.jpg",
+    "categoria": "integral",
+    "precio": 1.90,
+    "calificacion": 4.5,
+    "calorias": "360 kcal",
+    "duracion": "2h",
+    "ingredientes": [
+      "Harina integral",
+      "Semillas de lino",
+      "Avena",
+      "Agua",
+      "Sal"
+    ],
+    "instrucciones": "Mezclar ingredientes, dejar levar y hornear."
+  }
+]

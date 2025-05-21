@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nombre": "Croissant",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/65/Croissant-Pain-au-chocolat.jpg",
+      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/croissant.jpg",
       "categoria": "Francesa",
       "duracion": "2h",
       "calorias": 300,
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "nombre": "Rogel",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Torta_rogel_casera.jpg",
+      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/rogel.jpg",
       "categoria": "Argentina",
       "duracion": "1h 30min",
       "calorias": 450,
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "nombre": "Empanada de mermelada",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Empanadas_de_membrillo.jpg",
+      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/empanada.jpg",
       "categoria": "Argentina",
       "duracion": "1h",
       "calorias": 350,
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "nombre": "Focaccia",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Focaccia_al_rosmarino.jpg",
+      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/focaccia.jpg",
       "categoria": "Italiana",
       "duracion": "1h 15min",
       "calorias": 280,
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "nombre": "Ciabatta",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Ciabatta_bread.jpg",
+      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/ciabatta.jpg",
       "categoria": "Italiana",
       "duracion": "3h",
       "calorias": 290,
@@ -53,7 +53,7 @@
     {
       "id": 6,
       "nombre": "Baguette",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Baguette_%28PSF%29.png",
+      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/baguette.jpg",
       "categoria": "Francesa",
       "duracion": "3h",
       "calorias": 270,
@@ -63,7 +63,7 @@
     {
       "id": 7,
       "nombre": "Pan de centeno",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Rye_bread_loaf_and_slices.jpg",
+      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/centeno.jpg",
       "categoria": "Alemana",
       "duracion": "2h 30min",
       "calorias": 250,
@@ -73,7 +73,7 @@
     {
       "id": 8,
       "nombre": "Pan multigrano",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Multigrain_bread.jpg",
+      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/multigrano.jpg",
       "categoria": "Integral",
       "duracion": "2h",
       "calorias": 260,
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "nombre": "Pan de espelta",
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Spelt_bread.jpg",
+      "imagen": "https://raw.githubusercontent.com/Santiago-Sanchez-1099/Panes/refs/heads/main/espelta.jpg",
       "categoria": "Integral",
       "duracion": "2h",
       "calorias": 240,

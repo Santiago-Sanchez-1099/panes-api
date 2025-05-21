@@ -1,0 +1,94 @@
+{
+  "panes": [
+    {
+      "id": 1,
+      "nombre": "Croissant",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/65/Croissant-Pain-au-chocolat.jpg",
+      "categoria": "Francesa",
+      "duracion": "2h",
+      "calorias": 300,
+      "ingredientes": ["Harina", "Mantequilla", "Levadura", "Leche"],
+      "instrucciones": "Amasa, refrigera, dobla en capas, hornea a 200°C por 20 min."
+    },
+    {
+      "id": 2,
+      "nombre": "Rogel",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Torta_rogel_casera.jpg",
+      "categoria": "Argentina",
+      "duracion": "1h 30min",
+      "calorias": 450,
+      "ingredientes": ["Harina", "Huevo", "Dulce de leche", "Azúcar"],
+      "instrucciones": "Estira masa, hornea en capas, rellena con dulce de leche, decora con merengue."
+    },
+    {
+      "id": 3,
+      "nombre": "Empanada de mermelada",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Empanadas_de_membrillo.jpg",
+      "categoria": "Argentina",
+      "duracion": "1h",
+      "calorias": 350,
+      "ingredientes": ["Harina", "Manteca", "Mermelada", "Azúcar"],
+      "instrucciones": "Rellena discos de masa con mermelada, cierra, hornea 25 min a 180°C."
+    },
+    {
+      "id": 4,
+      "nombre": "Focaccia",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Focaccia_al_rosmarino.jpg",
+      "categoria": "Italiana",
+      "duracion": "1h 15min",
+      "calorias": 280,
+      "ingredientes": ["Harina", "Aceite de oliva", "Levadura", "Romero"],
+      "instrucciones": "Amasa y deja reposar, cubre con aceite y romero, hornea a 220°C."
+    },
+    {
+      "id": 5,
+      "nombre": "Ciabatta",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Ciabatta_bread.jpg",
+      "categoria": "Italiana",
+      "duracion": "3h",
+      "calorias": 290,
+      "ingredientes": ["Harina", "Agua", "Levadura", "Sal"],
+      "instrucciones": "Prepara masa húmeda, fermenta 2h, hornea con vapor por 30 min."
+    },
+    {
+      "id": 6,
+      "nombre": "Baguette",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Baguette_%28PSF%29.png",
+      "categoria": "Francesa",
+      "duracion": "3h",
+      "calorias": 270,
+      "ingredientes": ["Harina", "Agua", "Levadura", "Sal"],
+      "instrucciones": "Amasa, fermenta, forma barras, hornea a 220°C por 25 min."
+    },
+    {
+      "id": 7,
+      "nombre": "Pan de centeno",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Rye_bread_loaf_and_slices.jpg",
+      "categoria": "Alemana",
+      "duracion": "2h 30min",
+      "calorias": 250,
+      "ingredientes": ["Harina de centeno", "Agua", "Levadura", "Sal"],
+      "instrucciones": "Amasa, fermenta, hornea a 200°C por 35 min."
+    },
+    {
+      "id": 8,
+      "nombre": "Pan multigrano",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Multigrain_bread.jpg",
+      "categoria": "Integral",
+      "duracion": "2h",
+      "calorias": 260,
+      "ingredientes": ["Harinas varias", "Semillas", "Levadura", "Agua"],
+      "instrucciones": "Mezcla ingredientes, fermenta, hornea a 190°C por 30 min."
+    },
+    {
+      "id": 9,
+      "nombre": "Pan de espelta",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Spelt_bread.jpg",
+      "categoria": "Integral",
+      "duracion": "2h",
+      "calorias": 240,
+      "ingredientes": ["Harina de espelta", "Agua", "Levadura", "Sal"],
+      "instrucciones": "Amasa, deja levar 1h, hornea a 200°C por 30 min."
+    }
+  ]
+}
